@@ -1,6 +1,5 @@
-# PRODIGY_WD_01
 # Responsive Travel Website 🌊
-
+**PRODIGY_WD_01**
 Responsive Travel Website 🌊
 + Travel website to the most beautiful beaches, using HTML, CSS & JAVASCRIPT.
 + Contains animations when scrolling.
